@@ -1,0 +1,65 @@
+body {
+    background: darkcyan;
+}
+
+.App {
+    margin: auto;
+    width: 65%;
+    padding: 50px;
+    text-align: center;
+}
+
+.display-time {
+    text-align: center;
+    padding: 5%;
+}
+
+.timer {
+    margin: auto;
+    border-radius: 50%;
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.timer-buttons {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border-radius: 15%;
+    border: 3px solid black;
+}
+
+.props-buttons {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.session-time {
+    margin: auto;
+    text-align: center;
+    padding: 5%;
+    border-radius: 10%;
+    border: 3px solid black;
+}
+
+.break-time {
+    margin: auto;
+    text-align: center;
+    padding: 5%;
+    border-radius: 10%;
+    border: 3px solid black;
+}
+
+button {
+    margin: 10px;
+    background: darkcyan;
+    border: none;
+}

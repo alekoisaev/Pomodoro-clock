@@ -1,2 +1,1 @@
-# Pomodoro-clock
- 
+Pomodoro Clock 25 + 5
